@@ -1,0 +1,8 @@
+# Dataset archives and extracted data are kept outside Git.
+data/
+
+# Local Python/Jupyter environment artifacts.
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
